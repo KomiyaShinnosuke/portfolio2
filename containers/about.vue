@@ -37,30 +37,20 @@ export default {
         { key: 'University', value: '東工大', url: '' },
         {
           key: 'GitHub',
-          value: 'p1ass',
-          url: 'https://github.com/p1ass',
+          value: 'KomiyaShinnosuke',
+          url: 'https://github.com/KomiyaShinnosuke',
         },
         {
           key: 'Qiita',
-          value: 'p1ass',
-          url: 'https://qiita.com/p1ass',
+          value: 'KomiyaShinnosuke',
+          url: 'https://qiita.com/KomiyaShinnosuke',
         },
         {
           key: 'Facebook',
           value: '小宮 慎ノ介',
-          url: '',
+          url: 'https://www.facebook.com/shinnosuke.komiya.9',
         },
-        {
-          key: 'Twitter',
-          value: '@p1ass',
-          url: 'https://twitter.com/p1ass',
-        },
-        {
-          key: 'Blog',
-          value: 'ぷらすのブログ',
-          url: 'https://blog.p1ass.com',
-        },
-        { key: 'Mail', value: 'contact[at]p1ass.com', url: '' },
+        { key: 'Mail', value: 'shinnosuke828[at]gmail.com', url: '' },
       ],
     }
   },

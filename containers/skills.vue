@@ -21,18 +21,11 @@ export default {
   data() {
     return {
       skills: [
-        { name: 'Go' },
-        { name: 'Python' },
+        { name: 'Ruby / Ruby on Rails' },
         { name: 'JavaScript (ES6)' },
-        { name: 'C' },
-        { name: 'Vue.js / Nuxt.js' },
-        { name: 'GCP' },
+        { name: 'Vue.js / Nuxt.js(in future)' },
         { name: 'GitHub' },
-        { name: 'Docker' },
-        { name: 'Kubernetes' },
-        { name: 'Terraform' },
-        { name: 'Circle CI' },
-        { name: 'Firebase' },
+        { name: 'Firebase(in future)' },
       ],
     }
   },
