@@ -24,7 +24,7 @@ export default {
 
   data() {
     return {
-      msg: "Welcome to Naoki Kishi's Portfolio Site",
+      msg: "Welcome to Shin Komi's Portfolio Site",
     }
   },
 }

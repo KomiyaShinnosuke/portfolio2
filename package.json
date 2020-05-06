@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "My portfolio",
-  "author": "Naoki Kishi",
+  "author": "Shin Komi",
   "private": true,
   "scripts": {
     "dev": "nuxt",

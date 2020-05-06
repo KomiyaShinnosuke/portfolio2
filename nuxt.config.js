@@ -5,7 +5,7 @@ module.exports = {
    ** Headers of the page
    */
   head: {
-    title: `Naoki Kishi's Portfolio`,
+    title: `Shin Komi's Portfolio`,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -13,15 +13,15 @@ module.exports = {
         hid: 'description',
         name: 'description',
         content:
-          'Naoki Kishiのポートフォリオサイトです。Nuxt.jsで書かれています。インターンの経歴や開発しているものを紹介しています。',
+          'Shin Komiのポートフォリオサイトです。Nuxt.jsで書かれています。インターンの経歴や開発しているものを紹介しています。',
       },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@p1ass' },
-      { property: 'og:title', content: `Naoki Kishi's Portfolio Site` },
+      { property: 'og:title', content: `Shin Komi's Portfolio Site` },
       {
         property: 'og:description',
         content:
-          'Naoki Kishiのポートフォリオサイトです。Nuxt.jsで書かれています。インターンの経歴や開発しているものを紹介しています。',
+          'Shin Komiのポートフォリオサイトです。Nuxt.jsで書かれています。インターンの経歴や開発しているものを紹介しています。',
       },
       {
         property: 'og:url',

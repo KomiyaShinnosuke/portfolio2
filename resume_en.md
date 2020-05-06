@@ -1,4 +1,4 @@
-# Naoki Kishi
+# Shin Komi
 
 **Student Engineer with wide experiences of engineering internship and manager of community.**  
 Kyoto  

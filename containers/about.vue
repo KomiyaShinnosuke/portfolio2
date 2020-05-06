@@ -33,8 +33,8 @@ export default {
   data() {
     return {
       contacts: [
-        { key: 'Name', value: '岸 直輝 (Naoki Kishi)', url: '' },
-        { key: 'University', value: '京都大学 工学部 電気電子工学科', url: '' },
+        { key: 'Name', value: '小宮 慎ノ介 (Shin Komi)', url: '' },
+        { key: 'University', value: '東工大', url: '' },
         {
           key: 'GitHub',
           value: 'p1ass',
@@ -47,8 +47,8 @@ export default {
         },
         {
           key: 'Facebook',
-          value: '岸 直輝',
-          url: 'https://www.facebook.com/naokikishi.kyoto',
+          value: '小宮 慎ノ介',
+          url: '',
         },
         {
           key: 'Twitter',
